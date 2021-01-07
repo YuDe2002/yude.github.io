@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7898f414-649f-4e0b-8295-af5fa3e37e60" name="Default Changelist" comment="" />
+    <list default="true" id="b532e28c-1cee-4082-ad48-ec54de2a332f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Digital-Portfolio/yude.github.io" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/yude.github.io" />
   </component>
-  <component name="ProjectId" id="1mh6aKmmIQvikKyK0JSYJsXNjuL" />
+  <component name="ProjectId" id="1mk3qhrMKihkST9JuBLytEDGwQn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,17 +19,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../year 2 sem 1/application security project/NEW-secure-SWOY-bbt" />
+    <property name="last_opened_file_path" value="D:/year 2 sem 1/application security project/assignment" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\poly\year 2 sem 2\comms and branding\iPortfolio\iPortfolio\assets\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\poly\year 2 sem 2\comms and branding\iPortfolio\iPortfolio\assets\img" />
-      <recent name="D:\poly\year 2 sem 2\comms and branding\iPortfolio\iPortfolio\assets\img\testimonials" />
-    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,22 +39,46 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7898f414-649f-4e0b-8295-af5fa3e37e60" name="Default Changelist" comment="" />
-      <created>1609933537219</created>
+      <changelist id="b532e28c-1cee-4082-ad48-ec54de2a332f" name="Default Changelist" comment="" />
+      <created>1610023954178</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609933537219</updated>
+      <updated>1610023954178</updated>
     </task>
+    <task id="LOCAL-00001" summary="my portfolio">
+      <created>1610024084698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610024084698</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change file path">
+      <created>1610025562225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610025562225</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my portfolio" />
+    <MESSAGE value="change file path" />
+    <option name="LAST_COMMIT_MESSAGE" value="change file path" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610021894034">
+    <state x="552" y="111" key="CommitChangelistDialog2" timestamp="1610025867489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610021894034" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1610002823806">
+    <state x="552" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610025867489" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610025876237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610002823806" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610025876237" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1610023958886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610023958886" />
   </component>
 </project>
